@@ -11,8 +11,8 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 ## 📚 Conteúdo Programático
 
 ### 📌 Módulo I: Introdução ao Java
-- **Introdução**: Slide
-- **Variáveis, Tipos e Expressões**
+- **Introdução**: [[Slide](https://drive.google.com/file/d/19Wk10WPw_d1NWZxqK2GlNlveLzAoZQBc/view?usp=sharing)]
+- **Variáveis, Tipos e Expressões** [[slides](https://drive.google.com/file/d/19h5v5yZWKlgtVKqozDhpHRAHpHpeM420/view?usp=sharing)][[Exercício](https://drive.google.com/file/d/19ybSC1y0NuiiXyvq1iq7g9IHQD633qc2/view?usp=sharing)]
   - Declaração de variáveis.
   - Tipos de variáveis.
   - Expressões.
