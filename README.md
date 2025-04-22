@@ -17,14 +17,14 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
   - Tipos de variáveis.
   - Expressões.
   - Entrada e Saída**
-- **Controle de Fluxo**[[slides](https://drive.google.com/file/d/1ED3F_sM7kd9gSXkxn9i0dmXxXwjYtKpR/view?usp=sharing)][atividade]
+- **Controle de Fluxo**[[slides](https://drive.google.com/file/d/1ED3F_sM7kd9gSXkxn9i0dmXxXwjYtKpR/view?usp=sharing)][[atividade](https://drive.google.com/file/d/1FUpQL4STAMkB32_ohvR0oJ1Ig4gVLlvP/view?usp=sharing)]
   - IF.
   - While.
   - For.
-- **Funções**
-  - Declaração de funções.
-  - Utilização de funções.
-  - Variável global e variável local.
+- ~~**Funções**~~
+  - ~~Declaração de funções.~~
+  - ~~Utilização de funções.~~
+  - ~~Variável global e variável local.~~
 
 ### Módulo II: Princípios da Programação Orientada a Objetos
 - **Objetos e Classes**
@@ -51,12 +51,12 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 
 ## 📅 Cronograma
 #### Modulo I: Intodução ao Java
-04/04 (Sex) - Apresentação da disciplina. :white_check_mark:  
-08/04 (Ter) - Introdução ao Java. :white_check_mark:  
-11/04 (Sex) - Correção da atividade e Github.  
-12/04 (Sab) - Atividade  
-15/04 (Ter) - Estrutura Condicional e Repetição  
-~~18/04 (Sex) - Feriado.~~  
+:white_check_mark: 04/04 (Sex) - Apresentação da disciplina.   
+:white_check_mark: 08/04 (Ter) - Introdução ao Java.  
+:white_check_mark: 11/04 (Sex) - Correção da atividade e Github.  
+:white_check_mark: 12/04 (Sab) - Atividade  
+:white_check_mark: 15/04 (Ter) - Estrutura Condicional e Repetição  
+:white_check_mark: ~~18/04 (Sex) - Feriado.~~  
 22/04 (Ter) - Correção da atividade e Função.  
 25/04 (Sex) -  Correção da atividade.  
 **29/04 (Ter) - Primeira avaliação**  
