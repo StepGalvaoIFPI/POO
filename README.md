@@ -17,7 +17,7 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
   - Tipos de variáveis.
   - Expressões.
   - Entrada e Saída**
-- **Controle de Fluxo**[[slides](https://drive.google.com/file/d/1ED3F_sM7kd9gSXkxn9i0dmXxXwjYtKpR/view?usp=sharing)][[atividade](https://drive.google.com/file/d/1FUpQL4STAMkB32_ohvR0oJ1Ig4gVLlvP/view?usp=sharing)]
+- **Controle de Fluxo**[[slides](https://drive.google.com/file/d/1ED3F_sM7kd9gSXkxn9i0dmXxXwjYtKpR/view?usp=sharing)][[atividade](https://drive.google.com/file/d/1FUpQL4STAMkB32_ohvR0oJ1Ig4gVLlvP/view?usp=sharing)][[entrega](https://classroom.github.com/a/W8tgeZi7)]
   - IF.
   - While.
   - For.
