@@ -28,8 +28,10 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 
 ### Módulo II: Princípios da Programação Orientada a Objetos
 - **Objetos e Classes**
-- **Utilizando Objetos (Buscar objetos interessantes)**.
-- **Criando Classes**.
+[[slide](https://drive.google.com/file/d/1IomRxVzqKESjH13YLV3_DeDM-WDw7QvY/view?usp=sharing)] 
+[[atividade](https://drive.google.com/file/d/1IkRep4VBIvjEEeh_idZRxtXlP0F15x59/view?usp=sharing)]
+  - **Utilizando Objetos (Buscar objetos interessantes)**.
+  - **Criando Classes**.
 - **Atributos e Métodos**.
 - **Construtores**.
 - **Sobrecarga**.
@@ -57,17 +59,17 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 :white_check_mark: 12/04 (Sab) - Atividade  
 :white_check_mark: 15/04 (Ter) - Estrutura Condicional e Repetição  
 :white_check_mark: ~~18/04 (Sex) - Feriado.~~  
-22/04 (Ter) - Correção da atividade e Função.  
-25/04 (Sex) -  Correção da atividade.  
+:white_check_mark: 22/04 (Ter) - Correção da atividade e Função.  
+:white_check_mark: 25/04 (Sex) -  Correção da atividade.  
 **29/04 (Ter) - Primeira avaliação**  
 
 #### Módulo II: Introdução a Orientação a Objetos 
-02/05 (Sex) - Classe e Objetos (Conceitos).  
-06/05 (Ter) - Utilizando objetos: Seleniu (Precisa do laboratório preparado).  
-09/05 (Sex) - Correção de Aividade.  
-10/05 (Sab) - Atividade.  
-13/05 (Ter) - Classe: atributos.  
-16/05 (Sex) - Correção das atividades.  
+:white_check_mark: 02/05 (Sex) - Classe e Objetos (Conceitos).  
+:white_check_mark: 06/05 (Ter) - Atividade  
+:white_check_mark: 09/05 (Sex) - Criando classe: atributos.  
+:white_check_mark: 10/05 (Sab) - Atividade.  
+:white_check_mark: 13/05 (Ter) - Atividade.  
+:white_check_mark: 16/05 (Sex) - Correção das atividades.  
 20/05 (Ter) - Classe: métodos e Construtor.  
 23/05 (Sex) - Correção das atividades.  
 27/05 (Ter) - Encapsulamento.  
