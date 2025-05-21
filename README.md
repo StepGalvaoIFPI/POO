@@ -75,30 +75,27 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 23/05 (Sex) - Correção das atividades.  
 27/05 (Ter) - Encapsulamento e Construtor
 30/05 (Sex) - Correção das atividades.  
-**03/06 (Ter) - - Terceira avaliação**
-06/06 (Ter) - Projeto (Relações de Objetos): Banco, Escola, Alugel...  
-07/06 (Sex) - Correção e apresentação dos projetos.  
-
-
+**03/06 (Ter) - Terceira avaliação**  
+**06/06 (Sex) - Projeto (Relações de Objetos): Banco, Escola, Alugel...***  
+**10/06 (Ter) - Correção e apresentação dos projetos.**
 
 #### Módulo IV: Herança e polimorfismo
-10/06 (Ter) - Campos e métodos estáticos.
-13/06 (Sex) - Correção da atividade.  
-17/06 (Ter) - Sobrecarga.  
+13/06 (Sex) - Campos e métodos estáticos.
+17/06 (Ter) - Correção da atividade.  
 ~~20/06 (Sex) - Feriado~~  
-24/06 (Ter) - Herança: atributos e métodos.   
-27/06 (Sex) - Correção da atividade.  
-28/06 (Sab) - Atividade.
-01/07 (Ter) - Sobrescrita.  
-04/07 (Sex) - Correção da atividade  
-05/07 (Sab) - Revisão.  
-**08/07 (Ter) - Quarta avaliação**  
+24/06 (Ter) - Sobrecarga.  
+27/06 (Sex) - Herança: atributos e métodos.   
+28/06 (Sab) - Correção da atividade.  
+01/06 (Ter) - Atividade.
+04/07 (Sex) - Sobrescrita.  
+05/07 (Sab) - Correção da atividade  
+**08/07 (Ter) - Quarta avaliação** 
 
 11/07 (Sex) - Classe Abstrata.  
-14/07 (Sab) - Correção da Atividade.  
+12/07 (Sab) - Correção da Atividade.  
 15/07 (Ter) - Interface.  
 18/07 (Sex) - Correção da atividade.  
-22/07 (Ter) - GUI:Swing ou JavaFX.   
+22/07 (Ter) - GUI:Swing ou JavaFX.  
 ~~25/07 (Sex) - Pessoal.~~  
 29/07 (Ter) - GUI:Swing ou JavaFX.  
 01/08 (Sex) - Projeto.  
