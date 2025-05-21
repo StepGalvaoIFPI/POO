@@ -71,17 +71,20 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 :white_check_mark: 10/05 (Sab) - Atividade.  
 :white_check_mark: 13/05 (Ter) - Atividade.  
 :white_check_mark: 16/05 (Sex) - Correção das atividades.  
-:white_check_mark: 20/05 (Ter) - Classe: métodos e Construtor.  
+:white_check_mark: 20/05 (Ter) - Classe: métodos.  
 23/05 (Sex) - Correção das atividades.  
-27/05 (Ter) - Encapsulamento.  
+27/05 (Ter) - Encapsulamento e Construtor
 30/05 (Sex) - Correção das atividades.  
-03/06 (Ter) - Projeto (Relações de Objetos): Banco, Escola, Alugel...  
-06/06 (Sex) - Correção e apresentação dos projetos.  
-**10/06 (Ter) - Terceira avaliação** 
+**03/06 (Ter) - - Terceira avaliação**
+06/06 (Ter) - Projeto (Relações de Objetos): Banco, Escola, Alugel...  
+07/06 (Sex) - Correção e apresentação dos projetos.  
+
+
 
 #### Módulo IV: Herança e polimorfismo
-13/06 (Sex) - Sobrecarga.  
-17/06 (Ter) - Correção da atividade .  
+10/06 (Ter) - Campos e métodos estáticos.
+13/06 (Sex) - Correção da atividade.  
+17/06 (Ter) - Sobrecarga.  
 ~~20/06 (Sex) - Feriado~~  
 24/06 (Ter) - Herança: atributos e métodos.   
 27/06 (Sex) - Correção da atividade.  
