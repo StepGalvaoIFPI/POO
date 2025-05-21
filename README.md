@@ -29,10 +29,11 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 ### Módulo II: Princípios da Programação Orientada a Objetos
 - **Objetos e Classes**
 [[slide](https://drive.google.com/file/d/1IomRxVzqKESjH13YLV3_DeDM-WDw7QvY/view?usp=sharing)] 
-[[atividade](https://drive.google.com/file/d/1IkRep4VBIvjEEeh_idZRxtXlP0F15x59/view?usp=sharing)]
+[[atividade 1](https://drive.google.com/file/d/1IkRep4VBIvjEEeh_idZRxtXlP0F15x59/view?usp=sharing)]
+[[atividade 2](https://drive.google.com/file/d/1KTOWWXQGtoo8i6a0-6izACcECc_CQtmT/view?usp=sharing)]
   - **Utilizando Objetos (Buscar objetos interessantes)**.
   - **Criando Classes**.
-- **Atributos e Métodos**.
+  - **Atributos e Métodos**.
 - **Construtores**.
 - **Sobrecarga**.
 
@@ -70,7 +71,7 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 :white_check_mark: 10/05 (Sab) - Atividade.  
 :white_check_mark: 13/05 (Ter) - Atividade.  
 :white_check_mark: 16/05 (Sex) - Correção das atividades.  
-20/05 (Ter) - Classe: métodos e Construtor.  
+:white_check_mark: 20/05 (Ter) - Classe: métodos e Construtor.  
 23/05 (Sex) - Correção das atividades.  
 27/05 (Ter) - Encapsulamento.  
 30/05 (Sex) - Correção das atividades.  
