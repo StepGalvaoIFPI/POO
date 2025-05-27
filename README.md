@@ -34,7 +34,9 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
   - **Utilizando Objetos (Buscar objetos interessantes)**.
   - **Criando Classes**.
   - **Atributos e Métodos**.
-- **Construtores**.
+- **Construtores e Encapsulamento** 
+[[slides](https://drive.google.com/file/d/1NC4xtpKV0p68Hlf5_OvXTYAkj7FHTPxA/view?usp=sharing)]
+[[atividade](https://drive.google.com/file/d/1NGTjctiXBqKez1ZzaFIViDGK_TOxC5w_/view?usp=sharing)].
 - **Sobrecarga**.
 
 ### Módulo III: Herança
