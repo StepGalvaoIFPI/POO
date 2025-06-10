@@ -81,7 +81,9 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 :white_check_mark: **03/06 (Ter) - Terceira avaliação**  
 
 #### Modulo de Adaptação da turma
-:white_check_mark: 06/06 (Sex) - Construtores.  
+:white_check_mark: 06/06 (Sex) - Construtores.
+[[Slides](https://drive.google.com/file/d/1NC4xtpKV0p68Hlf5_OvXTYAkj7FHTPxA/view?usp=sharing)]
+[[Atividade](https://drive.google.com/file/d/1ziCLS1tr7Yj1a8qAWYp8bl4aMody9rYA/view?usp=sharing)]  
 :white_check_mark: 10/06 (Ter) - Correção das atividade.
 
 #### Módulo IV: Herança e polimorfismo
