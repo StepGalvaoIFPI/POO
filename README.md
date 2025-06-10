@@ -37,6 +37,7 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 - **Construtores e Encapsulamento** 
 [[slides](https://drive.google.com/file/d/1NC4xtpKV0p68Hlf5_OvXTYAkj7FHTPxA/view?usp=sharing)]
 [[atividade](https://drive.google.com/file/d/1NGTjctiXBqKez1ZzaFIViDGK_TOxC5w_/view?usp=sharing)].
+[[Atividade 2](https://drive.google.com/file/d/1ziCLS1tr7Yj1a8qAWYp8bl4aMody9rYA/view?usp=sharing)]
 - **Sobrecarga**.
 
 ### Módulo III: Herança
@@ -74,15 +75,17 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 :white_check_mark: 13/05 (Ter) - Atividade.  
 :white_check_mark: 16/05 (Sex) - Correção das atividades.  
 :white_check_mark: 20/05 (Ter) - Classe: métodos.  
-23/05 (Sex) - Correção das atividades.  
-27/05 (Ter) - Encapsulamento e Construtor
-30/05 (Sex) - Correção das atividades.  
-**03/06 (Ter) - Terceira avaliação**  
-**06/06 (Sex) - Projeto (Relações de Objetos): Banco, Escola, Alugel...***  
-**10/06 (Ter) - Correção e apresentação dos projetos.**
+:white_check_mark: 23/05 (Sex) - Correção das atividades.  
+:white_check_mark: 27/05 (Ter) - Encapsulamento e Construtor.  
+:white_check_mark: 30/05 (Sex) - Correção das atividades.  
+:white_check_mark: **03/06 (Ter) - Terceira avaliação**  
+
+#### Modulo de Adaptação da turma
+:white_check_mark: 06/06 (Sex) - Construtores.  
+:white_check_mark: 10/06 (Ter) - Correção das atividade.
 
 #### Módulo IV: Herança e polimorfismo
-13/06 (Sex) - Campos e métodos estáticos.
+13/06 (Sex) - Campos e métodos estáticos.  
 17/06 (Ter) - Correção da atividade.  
 ~~20/06 (Sex) - Feriado~~  
 24/06 (Ter) - Sobrecarga.  
