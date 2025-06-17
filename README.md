@@ -38,6 +38,9 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 [[slides](https://drive.google.com/file/d/1NC4xtpKV0p68Hlf5_OvXTYAkj7FHTPxA/view?usp=sharing)]
 [[atividade](https://drive.google.com/file/d/1NGTjctiXBqKez1ZzaFIViDGK_TOxC5w_/view?usp=sharing)].
 [[Atividade 2](https://drive.google.com/file/d/1ziCLS1tr7Yj1a8qAWYp8bl4aMody9rYA/view?usp=sharing)]
+- **Campos e métodos estáticos**
+[[slides](https://drive.google.com/file/d/1VGDbCa1kZD11NvLLihQmC1tGJjXlJtfG/view?usp=sharing)]
+[[atividade](https://drive.google.com/file/d/1gAZwKtqQ6Kx_6HXO9CetYkN2eGE7bhk-/view?usp=sharing)]
 - **Sobrecarga**.
 
 ### Módulo III: Herança
