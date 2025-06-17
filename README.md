@@ -90,8 +90,10 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 :white_check_mark: 10/06 (Ter) - Correção das atividade.
 
 #### Módulo IV: Herança e polimorfismo
-13/06 (Sex) - Campos e métodos estáticos.  
-17/06 (Ter) - Correção da atividade.  
+:white_check_mark: 13/06 (Sex) - Campos e métodos estáticos.
+[[slides](https://drive.google.com/file/d/1VGDbCa1kZD11NvLLihQmC1tGJjXlJtfG/view?usp=sharing)]
+[[atividade](https://drive.google.com/file/d/1gAZwKtqQ6Kx_6HXO9CetYkN2eGE7bhk-/view?usp=sharing)]  
+:white_check_mark: 17/06 (Ter) - Correção da atividade.  
 ~~20/06 (Sex) - Feriado~~  
 24/06 (Ter) - Sobrecarga.  
 27/06 (Sex) - Herança: atributos e métodos.   
