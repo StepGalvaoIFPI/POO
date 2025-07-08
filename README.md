@@ -45,6 +45,10 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 
 ### Módulo III: Herança
 - **Herança**.
+[[slides](https://drive.google.com/file/d/18xgZAF3ZCBX0wwujjErp6ntkdhspqnXl/view?usp=sharing)]
+[[atividades]()]
+- **Sobrecarga**
+[[slides](https://drive.google.com/file/d/1tXNFik9FRlnVyXSRKSx5nYV-FMGwGRhr/view?usp=sharing)]
 - **Polimorfismo**.
 - **Métodos e Classes Abstratas**.
 - **Interface**.
@@ -94,13 +98,13 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 [[slides](https://drive.google.com/file/d/1VGDbCa1kZD11NvLLihQmC1tGJjXlJtfG/view?usp=sharing)]
 [[atividade](https://drive.google.com/file/d/1gAZwKtqQ6Kx_6HXO9CetYkN2eGE7bhk-/view?usp=sharing)]  
 :white_check_mark: 17/06 (Ter) - Correção da atividade.  
-~~20/06 (Sex) - Feriado~~  
-24/06 (Ter) - Sobrecarga.  
-27/06 (Sex) - Herança: atributos e métodos.   
-28/06 (Sab) - Correção da atividade.  
-01/06 (Ter) - Atividade.
-04/07 (Sex) - Sobrescrita.  
-05/07 (Sab) - Correção da atividade  
+:white_check_mark: ~~20/06 (Sex) - Feriado~~  
+:white_check_mark: 24/06 (Ter) - Sobrecarga.  
+:white_check_mark: 27/06 (Sex) - Herança: atributos e métodos.   
+:white_check_mark: 28/06 (Sab) - Correção da atividade.  
+:white_check_mark: 01/06 (Ter) - Atividade.  
+:white_check_mark: 04/07 (Sex) - Sobrescrita.  
+:white_check_mark: 05/07 (Sab) - Correção da atividade  
 **08/07 (Ter) - Quarta avaliação** 
 
 11/07 (Sex) - Classe Abstrata.  
