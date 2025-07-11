@@ -48,8 +48,9 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 [[slides](https://drive.google.com/file/d/18xgZAF3ZCBX0wwujjErp6ntkdhspqnXl/view?usp=sharing)]
 [[atividade](https://drive.google.com/file/d/1h1CaoNKQy4Z5nxDUUYygq3YRKdTI39X9/view?usp=sharing)]
 [[atividade](https://drive.google.com/file/d/11VrkCvWPkxJGxKGZR6JX7qEPWiE-27SG/view?usp=sharing)]
-- **Sobrecarga**
+- **Sobreescrita**
 [[slides](https://drive.google.com/file/d/1tXNFik9FRlnVyXSRKSx5nYV-FMGwGRhr/view?usp=sharing)]
+[[atividade](https://drive.google.com/file/d/1pwgkLeGaqU_9teiwiprc8YquHPaI6Eub/view?usp=sharing)]
 - **Polimorfismo**.
 - **Métodos e Classes Abstratas**.
 - **Interface**.
@@ -143,4 +144,5 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 - :page_facing_up: CAELUM. Java e Orientação a Objetos. São Paulo: Caelum. Disponível em: https://www.alura.com.br/apostila-java-orientacao-objetos/.
 - :us: UNIVERSITY OF HELSINKI. Java Programming. Helsinki: University of Helsinki. Disponível em: https://java-programming.mooc.fi.  
 - :book: SCHILDT, Herbert. Java para iniciantes: crie, compile e execute programas Java rapidamente. 6. ed. Porto Alegre: Bookman, 2015.​
+
 
