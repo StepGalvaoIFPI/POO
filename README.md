@@ -46,7 +46,8 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 ### Módulo III: Herança
 - **Herança**.
 [[slides](https://drive.google.com/file/d/18xgZAF3ZCBX0wwujjErp6ntkdhspqnXl/view?usp=sharing)]
-[[atividades]()]
+[[atividade](https://drive.google.com/file/d/1h1CaoNKQy4Z5nxDUUYygq3YRKdTI39X9/view?usp=sharing)]
+[[atividade](https://drive.google.com/file/d/11VrkCvWPkxJGxKGZR6JX7qEPWiE-27SG/view?usp=sharing)]
 - **Sobrecarga**
 [[slides](https://drive.google.com/file/d/1tXNFik9FRlnVyXSRKSx5nYV-FMGwGRhr/view?usp=sharing)]
 - **Polimorfismo**.
@@ -100,24 +101,41 @@ Ensinar conceitos básicos de orientação a objetos, preparando os alunos para 
 :white_check_mark: 17/06 (Ter) - Correção da atividade.  
 :white_check_mark: ~~20/06 (Sex) - Feriado~~  
 :white_check_mark: 24/06 (Ter) - Sobrecarga.  
-:white_check_mark: 27/06 (Sex) - Herança: atributos e métodos.   
-:white_check_mark: 28/06 (Sab) - Correção da atividade.  
-:white_check_mark: 01/06 (Ter) - Atividade.  
-:white_check_mark: 04/07 (Sex) - Sobrescrita.  
+:white_check_mark: 27/06 (Sex) - Selenium.   
+:white_check_mark: 28/06 (Sab) - Selenium.  
+:white_check_mark: 01/06 (Ter) - Herança: atributos.  
+:white_check_mark: 04/07 (Sex) - Atividade.  
 :white_check_mark: 05/07 (Sab) - Correção da atividade  
-**08/07 (Ter) - Quarta avaliação** 
+:white_check_mark: 08/07 (Ter) - Herança: metodo.   
+:black_square_button: 11/07 (Sex) - Correção da Atividade.  
+:black_square_button: 15/07 (Ter) - Sobrecarga.  
+:black_square_button: 18/07 (Sex) - Correção da atividade.  
+:black_square_button: **22/07 (Ter) - Prova**
 
-11/07 (Sex) - Classe Abstrata.  
-12/07 (Sab) - Correção da Atividade.  
-15/07 (Ter) - Interface.  
-18/07 (Sex) - Correção da atividade.  
-22/07 (Ter) - GUI:Swing ou JavaFX.  
-~~25/07 (Sex) - Pessoal.~~  
-29/07 (Ter) - GUI:Swing ou JavaFX.  
-01/08 (Sex) - Projeto.  
-05/08 (Ter) - Projeto.  
-**08/08 (Sex) - Apresentação do Projeto**\
-**12/08 (Ter) - Prova Final**
+
+
+
+:black_square_button: ~~25/07 (Sex) - Pessoal.~~  
+:black_square_button: 29/07 (Ter) - Classe Abstrata.  
+:black_square_button: 01/08 (Sex) - Atividade.  
+:black_square_button: 05/08 (Ter) - Interface.  
+:black_square_button: 08/08 (Sex) - Atividade.  
+:black_square_button: 12/08 (Ter) - Prova
+
+
+
+
+:black_square_button: 11/07 (Sex) - Classe Abstrata.  
+:black_square_button: 12/07 (Sab) - Correção da Atividade.  
+:black_square_button: 15/07 (Ter) - Interface.  
+:black_square_button: 18/07 (Sex) - Correção da atividade.  
+:black_square_button: 22/07 (Ter) - GUI:Swing ou JavaFX.  
+:black_square_button: ~~25/07 (Sex) - Pessoal.~~  
+:black_square_button: 29/07 (Ter) - GUI:Swing ou JavaFX.  
+:black_square_button: 01/08 (Sex) - Projeto.  
+:black_square_button: 05/08 (Ter) - Projeto.  
+:black_square_button: **08/08 (Sex) - Apresentação do Projeto**\
+:black_square_button: **12/08 (Ter) - Prova Final**
 
 
 ## 📖 Bibliografia
